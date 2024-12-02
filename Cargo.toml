@@ -16,3 +16,4 @@ harness = false
 
 [dependencies]
 itertools = "0.13.0"
+rdxsort = "0.3.0"
